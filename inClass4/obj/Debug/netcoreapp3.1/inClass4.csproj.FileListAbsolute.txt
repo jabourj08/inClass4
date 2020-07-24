@@ -1,0 +1,13 @@
+C:\Users\Josh\source\repos\inClass4\inClass4\bin\Debug\netcoreapp3.1\inClass4.exe
+C:\Users\Josh\source\repos\inClass4\inClass4\bin\Debug\netcoreapp3.1\inClass4.deps.json
+C:\Users\Josh\source\repos\inClass4\inClass4\bin\Debug\netcoreapp3.1\inClass4.runtimeconfig.json
+C:\Users\Josh\source\repos\inClass4\inClass4\bin\Debug\netcoreapp3.1\inClass4.runtimeconfig.dev.json
+C:\Users\Josh\source\repos\inClass4\inClass4\bin\Debug\netcoreapp3.1\inClass4.dll
+C:\Users\Josh\source\repos\inClass4\inClass4\bin\Debug\netcoreapp3.1\inClass4.pdb
+C:\Users\Josh\source\repos\inClass4\inClass4\obj\Debug\netcoreapp3.1\inClass4.csprojAssemblyReference.cache
+C:\Users\Josh\source\repos\inClass4\inClass4\obj\Debug\netcoreapp3.1\inClass4.AssemblyInfoInputs.cache
+C:\Users\Josh\source\repos\inClass4\inClass4\obj\Debug\netcoreapp3.1\inClass4.AssemblyInfo.cs
+C:\Users\Josh\source\repos\inClass4\inClass4\obj\Debug\netcoreapp3.1\inClass4.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\inClass4\inClass4\obj\Debug\netcoreapp3.1\inClass4.dll
+C:\Users\Josh\source\repos\inClass4\inClass4\obj\Debug\netcoreapp3.1\inClass4.pdb
+C:\Users\Josh\source\repos\inClass4\inClass4\obj\Debug\netcoreapp3.1\inClass4.genruntimeconfig.cache
